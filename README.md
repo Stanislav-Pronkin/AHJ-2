@@ -1,5 +1,7 @@
 
+[![Build status](https://ci.appveyor.com/api/projects/status/3v6nwwq7554c6kwx?svg=true)](https://ci.appveyor.com/project/Stanislav-Pronkin/ahj-2)
 
+**Ссылка на GH-Pages**: https://stanislav-pronkin.github.io/AHJ-2/
 
 
 
